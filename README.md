@@ -1,2 +1,0 @@
-# shamrock
-my mvc item
